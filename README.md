@@ -19,3 +19,9 @@ Translate paper text using abadis.ir
 # Compile to exe | خروجی گرفتن به صورت فایل اجرایی
 ### 1.First go to project folder
 <code>cd **ProjectFolder**</code>
+
+### 2. Compile using flet command
+<code>flet pack PaperTranslator.py</code>
+
+### 3. Enjoy!
+Now go to ``dist`` folder, your app is there
