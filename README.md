@@ -8,6 +8,9 @@ Translate paper text using abadis.ir
 ### این پروژه با زبان پایتون و کتابخانه Flet توسعه داده شده است که به وسیله آن متن کپی شده از مقالات از کاراکتر های اضافی که مانع ترجمه صحیح می شوند و همچنین کاراکتر هایی مثل r\ که برای سطر بندی به متن اضافه شده است پاک می شود و می توان ترجمه صحیحی به دست آورد.
 #Usage | نحوه استفاده
 
-``First go to project folder``
+###First go to project folder
 <code>cd **ProjectFolder**</code>
+<br>
+###Use pip to install requirements
+<code>pip install -r requirements.txt</code>
 
