@@ -19,6 +19,7 @@ def main(page):
         cleaned_text = clean_text(pure_text)
         translated_text = translate(cleaned_text)
         translated_text_field.value = translated_text
+        translated_text_field.focus()
         page.update()
 
     page.add(
